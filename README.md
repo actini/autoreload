@@ -1,1 +1,1 @@
-# autoreload
+# Automatically reload on configuration changes for Nginx / OpenResty
